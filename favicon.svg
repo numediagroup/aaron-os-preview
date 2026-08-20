@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="102" ry="102" fill="#1A1A1A"/>
+  <!-- Row 1 -->
+  <polyline points="120,175 145,200 175,155" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="210" y1="178" x2="320" y2="178" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="210" y1="198" x2="380" y2="198" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <!-- Row 2 -->
+  <polyline points="120,245 145,270 175,225" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="210" y1="248" x2="320" y2="248" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="210" y1="268" x2="380" y2="268" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <!-- Row 3 -->
+  <polyline points="120,315 145,340 175,295" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="210" y1="318" x2="320" y2="318" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="210" y1="338" x2="380" y2="338" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+</svg>
